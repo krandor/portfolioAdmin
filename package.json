@@ -1,0 +1,33 @@
+{
+  "name": "portfolioAdmin",
+  "version": "1.0.0",
+  "description": "professional portfolio administrator",
+  "main": "index.html",
+  "dependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-html-reporter": "^0.2.7",
+    "karma-jasmine": "^1.0.2",
+    "karma-jasmine-html-reporter": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "karma start .config\\karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krandor/portfolioAdmin.git"
+  },
+  "keywords": [
+    "professional",
+    "portfolio",
+    "administration"
+  ],
+  "author": "krandor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krandor/portfolioAdmin/issues"
+  },
+  "homepage": "https://github.com/krandor/portfolioAdmin"
+}
