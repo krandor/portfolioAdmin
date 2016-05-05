@@ -1,6 +1,6 @@
 {
-  "name": "portfolios_new",
-  "homepage": "https://github.com/krandor/personal",
+  "name": "portfolioAdmin",
+  "homepage": "https://github.com/krandor/portfolioAdmin.git",
   "description": "application to manage professional portfolio",
   "main": "index.html",
   "keywords": [
@@ -11,7 +11,7 @@
   "authors": [
     "krandor"
   ],
-  "license": "MIT",
+  "license": "ICS",
   "ignore": [
     "**/.*",
     "node_modules",
